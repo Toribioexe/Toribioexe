@@ -1,5 +1,7 @@
 ## Bienvenidos 👋🥸
-Originally a 3D animator who fell further in love with Python thanks to MEL language within Autodesk Maya. I enjoy the basics of web-design while also diving deep into the complexity of 
+Originally a 3D animator who fell further in love with Python thanks to MEL language within Autodesk Maya. I enjoy the basics of front-end web design while also diving deep into the complexity of building systems. Also an vivid Story teller/ Writer who enjoys getting lost in the worlds and stories I create! 
+
+
 
 ---
 ### My Tech Stack
