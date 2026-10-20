@@ -1,5 +1,5 @@
 ## Bienvenidos 👋🥸
-Originally a 3D animator who fell further in love with Python thanks to MEL language within Autodesk Maya. I enjoy the basics of front-end web design while also diving deep into the complexity of building systems. Also an vivid Story teller/ Writer who enjoys getting lost in the worlds and stories I create! Working to continue bringing my projects alive one by one! A lot of my time has been sent in Game Development and I hope to push my game out within the coming month! 
+Originally a 3D animator who fell further in love with Python thanks to MEL language within Autodesk Maya. I enjoy the basics of front-end web design while also diving deep into the complexity of building systems. Also an vivid Story teller/ Writer who enjoys getting lost in the worlds and stories I create! Working to continue bringing my projects alive one by one! A lot of my time has been spent in Game Development and I hope to push my game out within the coming month! 
 
 
 
